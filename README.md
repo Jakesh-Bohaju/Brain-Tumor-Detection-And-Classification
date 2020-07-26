@@ -4,13 +4,13 @@
 - activate virtual environment "source ENVIRONMENT_NAME/bin/activate"
 
 #### Install requirements
-- pip3 install numpy pandas matplotlib seaborn cython SimpleITK scikit-learn
+- pip3 install numpy pandas matplotlib seaborn cython SimpleITK scikit-learn <br>
 note:pip if using window
 
 #### Further process
 - go to project folder "cd PROJECT_FOLDER_NAME"
 - go to libtsvm/optimizer folder "cd libtsvm/optimizer"
-- then run "python3 setup.py build_ext --inplace"
+- then run "python3 setup.py build_ext --inplace"  (note: python incase of python3 for window)
 - after that fall back to project folder "cd .."
 
 #### Dataset 
