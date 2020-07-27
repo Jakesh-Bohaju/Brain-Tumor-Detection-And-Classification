@@ -1,0 +1,5 @@
+#### Add Brat2015 dataset as folder 
+
+BRATS2015_Training
+    HGG
+    LGG
